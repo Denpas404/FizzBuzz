@@ -1,0 +1,11 @@
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\bin\Debug\FizzBuzzConsoleApp.exe.config
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\bin\Debug\FizzBuzzConsoleApp.exe
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\bin\Debug\FizzBuzzConsoleApp.pdb
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\bin\Debug\FizzBuzzClassLibrary.dll
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\bin\Debug\FizzBuzzClassLibrary.pdb
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\obj\Debug\FizzBuzzConsoleApp.csproj.AssemblyReference.cache
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\obj\Debug\FizzBuzzConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\obj\Debug\FizzBuzzConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\obj\Debug\FizzBuzzConsoleApp.csproj.CopyComplete
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\obj\Debug\FizzBuzzConsoleApp.exe
+C:\Users\depa\source\repos\FizzBuzz\FizzBuzzConsoleApp\obj\Debug\FizzBuzzConsoleApp.pdb
